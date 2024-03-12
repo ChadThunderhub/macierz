@@ -161,11 +161,6 @@ void Macierz::set(int i, int j, double x)
     {
         matrix[i][j] = x;
     }
-    else
-    {
-        std::cout << "dupa";
-        exit;
-    }
 }
 
 
